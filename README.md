@@ -57,11 +57,9 @@ AI Engineer with a B.Tech in Artificial Intelligence, focused on designing and d
 - Scalable inference architectures for AI products
 
 ## Contact
-- LinkedIn: https://www.linkedin.com/in/your-link
-- Email: your.email@example.com
-- Portfolio: https://your-portfolio-link.com
+- LinkedIn: https://www.linkedin.com/in/aayush-sinha-63420b295/
+- Email: sinhaaayush1011@gmail.com
 
----
 
-### GitHub Bio (Recommended)
-AI Engineer | B.Tech AI | ML, NLP, LLM Applications | FastAPI | Production AI Systems
+
+ 
