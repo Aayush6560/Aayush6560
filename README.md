@@ -1,4 +1,4 @@
-<h1 align="center">Aayush Sinha | AI Engineer</h1>
+<h1 align="center">Aayush Sinha /h1>
 
 <p align="center">
   <strong>B.Tech in Artificial Intelligence | Machine Learning, NLP, LLM Applications, MLOps</strong>
@@ -37,8 +37,7 @@ AI Engineer with hands-on experience delivering end-to-end AI solutions, from da
   https://github.com/Aayush6560/software-defect-prediction
   Classification-focused experimentation pipeline for software quality prediction.
 
-## Recruiter Keywords
-Machine Learning, Deep Learning, NLP, LLM, Retrieval-Augmented Workflows, Model Explainability, MLOps, FastAPI, Docker, Production AI.
+ 
 
 ## Education
 B.Tech in Artificial Intelligence
@@ -47,5 +46,4 @@ B.Tech in Artificial Intelligence
 - LinkedIn: https://www.linkedin.com/in/aayush-sinha-63420b295/
 - Email: sinhaaayush1011@gmail.com
 
-## Bio Line
-AI Engineer | B.Tech AI | ML, NLP, LLM Applications | FastAPI, XGBoost, MLOps
+
