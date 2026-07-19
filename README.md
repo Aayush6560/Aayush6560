@@ -1,4 +1,4 @@
-<h1 align="center">Aayush Sinha /h1>
+<h1 align="center">Aayush Sinha </h1>
 
 <p align="center">
   <strong>B.Tech in Artificial Intelligence | Machine Learning, NLP, LLM Applications, MLOps</strong>
